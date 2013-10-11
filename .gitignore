@@ -1,0 +1,12 @@
+exp/
+latjosh/
+latjosh-2/
+latjosh-2-callhome/
+mfcc/
+nohup.out
+nohup.lat
+data/
+!.gitignore
+.svn/
+steps
+utils
